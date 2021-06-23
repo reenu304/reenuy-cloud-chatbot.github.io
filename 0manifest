@@ -1,0 +1,5 @@
+applications:
+- name: reenuyadav
+  random-route: true
+  memory: 256M
+  instances: 

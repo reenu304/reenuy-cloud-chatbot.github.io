@@ -1,0 +1,5 @@
+applications:
+- name: reenu yadav
+  random-route: true
+  memory: 256M
+  instances: 
